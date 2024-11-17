@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jannatul Ferdaus
+title: Jannatul f
 
 
 # Full name (for SEO)
