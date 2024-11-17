@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Jannatul Ferdaus Ankhi
-
+title: Jannatul Ferdaus
 
 
 # Full name (for SEO)
