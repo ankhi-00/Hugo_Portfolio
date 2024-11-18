@@ -62,16 +62,16 @@ skills:
     items:
       - name: C
         description: ''
-        percent: 100
+        percent: 95
       - name: C++
         description: ''
-        percent: 100
+        percent: 90
       - name: Java
         description: ''
         percent: 80
       - name: HTML
         description: ''
-        percent: 100
+        percent: 90
       - name: CSS
         description: ''
         percent: 80
@@ -89,13 +89,12 @@ skills:
 # Languages
 languages:
   - name: English
-    percent: 100
+    percent: 95
   - name: Bengali
     percent: 100
   - name: Hindi
     percent: 80
 
-# Projects
 projects:
   - title: Survey Form
     url: https://example.com/survey-form
@@ -108,7 +107,7 @@ projects:
   - title: Personal Portfolio Webpage
     url: https://example.com/personal-portfolio
 
+
 # Summary
 summary: |
-  I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
----
+  ---
