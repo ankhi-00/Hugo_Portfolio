@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jannatul f
+title: ANKHI
 
 
 # Full name (for SEO)
-first_name: Jannatul Ferdaus 
+first_name: Jannatul Ferdous 
 last_name: Ankhi
 
 
@@ -31,10 +31,10 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Computer Science and Engineering
+    institution: Jahangirnagar University
+    date_start: 2021-01-01
+    date_end: 2025-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -123,10 +123,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Bengali
+    percent: 100
+  - name: Hindi
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
