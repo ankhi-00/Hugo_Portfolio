@@ -93,8 +93,9 @@ languages:
   - name: Bengali
     percent: 100
   - name: Hindi
-    percent: 80
+    percent: 90
 
+# Projects
 projects:
   - title: Survey Form
     url: https://example.com/survey-form
