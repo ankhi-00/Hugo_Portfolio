@@ -104,7 +104,7 @@ projects:
   - title: Tribute Page
 
   - title: Product Landing Page
- 
+    url: https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page
   - title: Personal Portfolio Webpage
    
 
