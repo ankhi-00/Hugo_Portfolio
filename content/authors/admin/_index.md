@@ -98,18 +98,19 @@ languages:
 # Projects
 projects:
   - title: Survey Form
-    url: https://example.com/survey-form
+
   - title: Technical Documentation Page
-    url: https://example.com/technical-docs
+
   - title: Tribute Page
-    url: https://example.com/tribute-page
+
   - title: Product Landing Page
-    url: https://example.com/product-landing-page
+ 
   - title: Personal Portfolio Webpage
-    url: https://example.com/personal-portfolio
+   
+
 
 
 # Summary
-summary: |
+summary: I am a Student
 
 ---
